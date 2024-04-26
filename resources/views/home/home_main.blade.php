@@ -14,7 +14,7 @@
 
     <!-- ======= Get Started Section ======= -->
 
-    @include('home.home_service')
+    @include('home.home_services')
 
     @include('home.home_construction')
 
@@ -33,10 +33,6 @@
 </div>
 
  
-
-
-
-
 
 
   @endsection

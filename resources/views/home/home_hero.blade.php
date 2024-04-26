@@ -38,10 +38,10 @@
       </div>
     </div>
 
-    <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+    <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
 
-      <div class="carousel-item active" style="background-image: url(backend/assets/img/hero-carousel/hero-carousel-1.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(backend/assets/img/hero-carousel/hero-carousel-2.avif)"></div>
+      <div class="carousel-item active" style="background-image: url(backend/assets/img/hero-carousel/hero-carousel-1.avif)"></div>
+      <div class="carousel-item" style="background-image: url(backend/assets/img/hero-carousel/hero-carousel-2.jpg)"></div>
       <!-- <div class="carousel-item" style="background-image: url(backend/assets/img/hero-carousel/hero-carousel-3.jpg)"></div>
       <div class="carousel-item" style="background-image: url(backend/assets/img/hero-carousel/hero-carousel-4.jpg)"></div>
       <div class="carousel-item" style="background-image: url(backend/assets/img/hero-carousel/hero-carousel-5.jpg)"></div> -->

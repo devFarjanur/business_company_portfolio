@@ -13,7 +13,7 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(backend/assets/img/constructions-1.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(backend/assets/img/solar-1.avif);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
@@ -45,7 +45,7 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(backend/assets/img/constructions-3.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(backend/assets/img/solar-3.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
@@ -61,7 +61,7 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(backend/assets/img/constructions-4.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(backend/assets/img/solar-4.webp);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
