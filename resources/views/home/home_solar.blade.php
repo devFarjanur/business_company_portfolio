@@ -4,7 +4,7 @@
 
         <div class="section-header">
           <h2>Solar Power</h2>
-          <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p>
+          <p>Unleash the Power of the Sun: Solar Panel Services</p>
         </div>
 
         <div class="row gy-4">
