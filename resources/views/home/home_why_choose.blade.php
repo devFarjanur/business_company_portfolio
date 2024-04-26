@@ -3,7 +3,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row justify-content-around gy-4">
-          <div class="col-lg-6 img-bg" style="background-image: url(backend/assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+          <div class="col-lg-6 img-bg" style="background-image: url(backend/assets/img/alt-services.avif);" data-aos="zoom-in" data-aos-delay="100"></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
             <h3>Why Choose Us: Your One-Stop Shop for Sustainable Construction & Solar Power</h3>

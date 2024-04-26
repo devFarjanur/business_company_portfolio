@@ -725,6 +725,7 @@ section {
 }
 
 .solar .card-item .card-bg {
+  width: 100%;
   min-height: 500px;
   background-size: cover;
   background-position: center;

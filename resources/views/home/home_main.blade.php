@@ -22,7 +22,7 @@
 
     @include('home.home_why_choose')
 
-    @include('home.home_project')
+    @include('home.home_projects')
 
     @include('home.home_testimonial')
 
